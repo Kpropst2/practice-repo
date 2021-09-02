@@ -1,26 +1,24 @@
-## First Name Last Name
+## Kayla Propst
 
-### Term Year 
+### FA 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Calculus 2
 
-- Course 2
+- Introduction to data science
 
-- Course 3
+- Introduction to python
 
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
-
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Reading
+- Baking
+- Pet care as shown in this website 
+<https://www.floridapoly.edu>
 
 ***
 
