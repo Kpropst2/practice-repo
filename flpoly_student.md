@@ -1,20 +1,25 @@
-## Kayla Propst
+**Kayla Propst**
 
-### FA 2021 
+**Fall 2021**
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Calculus 2
-
-- Introduction to data science
-
-- Introduction to python
-
-
+**Prefix**: **Number**:              _Title_:                     Credit:
+|----------: |  ----------: ----------------------------------:  -------:
+|**MAC**	   |  **2312**|  _Analytic Geometry and Calculus 2_       |  4|      
+|            |          |                                           |   |
+|**COP**     |  **2073**|  _Introduction to Data Science_:          |  3|          
+|            |          |                                           |   |
+|**COP**     |	**2034**|	_Introduction to Programming Using Python_|  3|
+|            |          |                                           |   |
+|**CTS**	   | **2375** |	_Cloud Infrastructure and Service_:       |  3|     
+|
 **Hobbies:**
+
 
 I am _passionate about_: 
 
+-Cheerleading
 - Reading
 - Baking
 - Pet care as shown in this website 
